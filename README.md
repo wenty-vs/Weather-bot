@@ -6,7 +6,7 @@
 * **Локалізація:** Повна підтримка української мови у відповідях.
 
 ## Технологічний стек
-* **Мова:** [Python 3.x](https://www.python.org/)
+* **Мова:** [Python 3.14.3](https://www.python.org/)
 * **Бібліотеки:**
   * `pyTelegramBotAPI (telebot)` — взаємодія з Telegram API.
   * `requests` — робота з HTTP-запитами.
